@@ -21,7 +21,5 @@ int main() {
     int arr[4] = {1,2,3,4};
     subsets(arr,4);
 
-    cout<<"Number of ones are: "<<numberofones(n);
-
     return 0;
 }

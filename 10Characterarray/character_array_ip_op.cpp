@@ -10,6 +10,7 @@ int main() {
     cin>>arr;
 
     cout<<arr;
+    cout<<arr[2];
 
     return 0;
 }

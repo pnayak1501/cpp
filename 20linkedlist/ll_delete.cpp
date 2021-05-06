@@ -1,4 +1,4 @@
-// LinkedList reverse
+// LinkedList deletion
 
 #include <iostream>
 #include <bits/stdc++.h>

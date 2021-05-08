@@ -1,4 +1,4 @@
-// Queue basics
+// Queue STL
 
 #include<iostream>
 #include<queue> 

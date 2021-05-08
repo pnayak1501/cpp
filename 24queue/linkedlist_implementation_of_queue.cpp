@@ -24,7 +24,7 @@ class queue{
         back = NULL;
     }
 
-    void push(int x){
+    void push(int x){ // enqueue
 
         node* n = new node(x);
         if(front==NULL){
@@ -37,7 +37,7 @@ class queue{
 
     }
 
-    void pop(){
+    void pop(){ // dequeue
         if(front==NULL){
             cout<<"Queue underflow"<<endl;
             return;

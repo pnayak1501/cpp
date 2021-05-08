@@ -17,7 +17,7 @@ class queue{
         back = -1;
     }
 
-    void push(int x){
+    void push(int x){ // enqueue
         if(back==n-1){
             cout<<"Queue overflow"<<endl;
             return;
@@ -30,7 +30,7 @@ class queue{
         }
     }
 
-    void pop(){
+    void pop(){ // dequeue
         if(front==-1 || front>back){
             cout<<"Queue underflow"<<endl;
             return;

@@ -1,4 +1,4 @@
-// Sliding window maximum
+// Sliding window maximum using vector
 
 #include<iostream>
 #include<vector> 

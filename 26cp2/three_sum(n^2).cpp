@@ -1,4 +1,4 @@
-// Three sum 
+// Three sum (n^2 complexity)
 
 #include<iostream>
 #include "bits/stdc++.h"

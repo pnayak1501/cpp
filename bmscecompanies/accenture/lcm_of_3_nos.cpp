@@ -28,7 +28,7 @@ int lcm(int x,int y, int z)
 int main()
 {
         int a,b,c;
-        int LCM, HCF;
+        int LCM;
         cout<<"Enter 1st number: ";
         cin>>a;
         cout<<"Enter 2nd number: ";

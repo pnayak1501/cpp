@@ -1,4 +1,4 @@
-// For a given string "ashs100shsdh200" the output should be the sum of the two numbers which is 300.
+// For a given string "ashs100shsdh200" the output should be the sum of the two numbers which is 300
 
 #include<iostream>
 #include "bits/stdc++.h"

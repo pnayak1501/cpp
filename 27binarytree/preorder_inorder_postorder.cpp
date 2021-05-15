@@ -1,4 +1,4 @@
-// Inorder, Preorder, Postorder traversal
+// Inorder, Preorder, Postorder traversal of a binary tree
 
 #include<iostream>
 #include "bits/stdc++.h"

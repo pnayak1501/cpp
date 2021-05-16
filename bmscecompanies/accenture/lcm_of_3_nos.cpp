@@ -27,6 +27,7 @@ int lcm(int x,int y, int z)
 
 int main()
 {
+    
         int a,b,c;
         int LCM;
         cout<<"Enter 1st number: ";
@@ -38,4 +39,5 @@ int main()
         LCM = lcm(a,b,c);
         cout<<"LCM of "<<a<<","<<b<<","<<c<<" is = "<<LCM<<endl;
         return 0;
+    
 }

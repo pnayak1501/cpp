@@ -6,6 +6,7 @@
 using namespace std;
 
 class node{
+    
     public: int data;
     node* next;
 
@@ -13,6 +14,7 @@ class node{
         data = val;
         next = NULL;
     }
+    
 };
 
 void insertAtHead(node* &head, int val){

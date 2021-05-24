@@ -18,7 +18,7 @@ class Node{
         }
 };
 
-void sumatkthlevel(Node* root){
+void countnodes(Node* root){
     if(root==NULL){
         return;
     }
@@ -55,7 +55,7 @@ int main(){
     root->left->right = new Node(5);
     root->right->left = new Node(6);
 	root->right->right = new Node(7);
-    sumatkthlevel(root);
+    countnodes(root);
     return 0;
 
 }

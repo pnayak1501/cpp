@@ -1,4 +1,4 @@
-// Adjacency matrix
+// adjacency matrix
 
 #include <iostream>
 #include <bits/stdc++.h>
